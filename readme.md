@@ -34,14 +34,28 @@ This Streamlit app allows users to upload a PDF and interactively **ask question
    ```bash
    pip install -r requirements.txt
    
-2. **Make sure you have Ollama and the model::**
+3. **Make sure you have Ollama and the model::**
    ```bash
    ollama run deepseek-r1:7b
 
 -----
+
 
 ## 📦 Running the app
 
 2. **Make sure you're in the project directory, then run:**
    ```bash
    streamlit run app.py
+
+-----
+
+##  ## 🛠️ Built With
+
+- [Python](https://www.python.org/)
+- [Streamlit](https://streamlit.io/)
+- [LangChain](https://www.langchain.com/)
+- [FAISS](https://github.com/facebookresearch/faiss)
+- [Ollama](https://ollama.com/)
+- [DeepSeek LLM](https://huggingface.co/deepseek-ai)
+
+------
