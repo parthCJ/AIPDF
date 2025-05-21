@@ -48,8 +48,7 @@ This Streamlit app allows users to upload a PDF and interactively **ask question
    streamlit run app.py
 
 -----
-
-##  ## 🛠️ Built With
+## 🛠️ Built With
 
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
