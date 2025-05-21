@@ -57,6 +57,6 @@ This Streamlit app allows users to upload a PDF and interactively **ask question
 - [FAISS](https://github.com/facebookresearch/faiss)
 - [Ollama](https://ollama.com/)
 - [DeepSeek LLM](https://huggingface.co/deepseek-ai)
-- [ChatGPT]
+- [ChatGPT](https://openai.com/index/chatgpt/)
 
 ------
