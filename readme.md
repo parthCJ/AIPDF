@@ -27,7 +27,7 @@ This Streamlit app allows users to upload a PDF and interactively **ask question
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/pdf-chat-deepseek.git
+   git clone https://github.com/ParthCJ/pdf-chat-deepseek.git
    cd pdf-chat-deepseek
 
 2. **Install dependencies:**
